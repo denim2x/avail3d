@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension>
+	
+	<window depth-buffer="true" stencil-buffer="true" />
+	
+	<haxelib name="avail3d-samples" if="setup" />
+	<include haxelib="avail3d-samples" if="create" />
+	
+</extension>

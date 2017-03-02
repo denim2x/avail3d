@@ -1,0 +1,15 @@
+{
+	"name": "avail3d",
+	"url": "https://github.com/denim2x/avail3d",
+	"license": "MIT",
+	"tags": [ "away3d", "3d", "engine", "openfl", "cross", "cpp", "flash", "game", "js", "web", "ios", "android" ],
+	"description": "Avail3D gets you rid of those pesky bugs from Away3D ;)",
+	"version": "1.0.0",
+	"releasenote": "The mighty bug-free commit #1 ;))",
+	"contributors": [ "denim2x" ],
+  "dependencies": {
+    "away3d": "",
+    "openfl": "",
+    "lime": ""
+  }
+}
